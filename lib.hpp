@@ -17,7 +17,7 @@
 #ifndef DMITIGR_LISP_LIB_HPP
 #define DMITIGR_LISP_LIB_HPP
 
-#include "../fsx/filesystem.hpp"
+#include "../base/fsx.hpp"
 #include "../str/stream.hpp"
 #include "expr.hpp"
 
